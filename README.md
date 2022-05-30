@@ -1,3 +1,5 @@
+edited readme and index
+
 asdasd
 asdasdas
 
