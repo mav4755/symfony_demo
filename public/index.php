@@ -9,3 +9,4 @@ return function (array $context) {
 };
 
 // added some text2
+// added text
